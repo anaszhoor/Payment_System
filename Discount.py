@@ -19,9 +19,10 @@ class FixedAmountDiscount(Discount):
     def apply_discount(self, amount):
         return max(0, amount - self.discount_amount)
     
-# Unit Test
+# Unit Test1
 test3 = PercentageDiscount(10)
 print(test3.apply_discount(3000))
 
+# Unit Test2
 test4 = FixedAmountDiscount(760)
 print(test4.apply_discount(3000))
