@@ -1,0 +1,10 @@
+(24 - August - 2024, 22:45:19) => | ANAS ZHOUR | CRITICAL => `USER NAME : Asem Saleh`
+(24 - August - 2024, 22:45:19) => | ANAS ZHOUR | CRITICAL => `Validating credit card details`
+(24 - August - 2024, 22:45:19) => | ANAS ZHOUR | CRITICAL => `Processing credit card payment of 4700 ILS`
+(24 - August - 2024, 22:45:19) => | ANAS ZHOUR | CRITICAL => `Payment Method : <PaymentMethod.CreditCard object at 0x104d7bec0> 
+ Final Amount (*amount after discount and convertion) : 1079.7297 USD`
+(24 - August - 2024, 22:45:19) => | ANAS ZHOUR | CRITICAL => `USER NAME : Dana`
+(24 - August - 2024, 22:45:19) => | ANAS ZHOUR | CRITICAL => `Validating PayPal details`
+(24 - August - 2024, 22:45:19) => | ANAS ZHOUR | CRITICAL => `Processing PayPal payment of 4700 ILS`
+(24 - August - 2024, 22:45:19) => | ANAS ZHOUR | CRITICAL => `Payment Method : <PaymentMethod.PayPal object at 0x104e58dd0> 
+ Final Amount (*amount after discount and convertion) : 705 JOD`
